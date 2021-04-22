@@ -1,4 +1,4 @@
-program LoginBackgroundUI;
+program LoginPageUI3;
 
 uses
   System.StartUpCopy,
